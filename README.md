@@ -25,6 +25,9 @@
     <img height="180em" src="https://github-readme-stats-gerdon.vercel.app/api?username=gerdon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-gerdon.vercel.app/api/top-langs/?username=gerdon&layout=compact&langs_count=8&hide=Jupyter Notebook&theme=dark&count_private=true"/>
   </a>
+    <a href="https://github.com/gerdon">
+    <img height="180em" src="https://github-readme-stats-gerdon.vercel.app/api/top-langs/?username=gerdon&layout=compact&langs_count=8&hide=Jupyter Notebook&theme=dark&count_private=true"/>
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
